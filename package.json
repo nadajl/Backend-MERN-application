@@ -154,7 +154,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
     "test": "echo \"Error\" && exit 1"
   },
   "repository": {
